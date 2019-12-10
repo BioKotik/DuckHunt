@@ -1,0 +1,1591 @@
+fileFormatVersion: 2
+guid: 0bdf9fdcf51831146b49024514ddc6fa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8819016075256857662
+    second: DuckHuntSprites_0
+  - first:
+      213: 494790646946172801
+    second: DuckHuntSprites_1
+  - first:
+      213: -5121558988732204021
+    second: DuckHuntSprites_2
+  - first:
+      213: -1865519119598697148
+    second: DuckHuntSprites_3
+  - first:
+      213: -5609233150059175964
+    second: DuckHuntSprites_4
+  - first:
+      213: -8539457529444681200
+    second: DuckHuntSprites_5
+  - first:
+      213: -6667088643750080618
+    second: DuckHuntSprites_6
+  - first:
+      213: -7017641503573693974
+    second: DuckHuntSprites_7
+  - first:
+      213: -4384775913810135906
+    second: DuckHuntSprites_8
+  - first:
+      213: 2668522089761795956
+    second: DuckHuntSprites_9
+  - first:
+      213: -415753787348115630
+    second: DuckHuntSprites_10
+  - first:
+      213: -2776159026035897601
+    second: DuckHuntSprites_11
+  - first:
+      213: 2819747589348203635
+    second: DuckHuntSprites_12
+  - first:
+      213: 7014523080163748499
+    second: DuckHuntSprites_13
+  - first:
+      213: 982122315104993935
+    second: DuckHuntSprites_14
+  - first:
+      213: 1231402321253547743
+    second: DuckHuntSprites_15
+  - first:
+      213: -665633762220790163
+    second: DuckHuntSprites_16
+  - first:
+      213: 3645059321325209384
+    second: DuckHuntSprites_17
+  - first:
+      213: 7981194585891863640
+    second: DuckHuntSprites_18
+  - first:
+      213: -8435605737290126445
+    second: DuckHuntSprites_19
+  - first:
+      213: -3652683086966088331
+    second: DuckHuntSprites_20
+  - first:
+      213: 4210059791072773702
+    second: DuckHuntSprites_21
+  - first:
+      213: 3945165890852093859
+    second: DuckHuntSprites_22
+  - first:
+      213: -8790117279746883156
+    second: DuckHuntSprites_23
+  - first:
+      213: 535540593011669600
+    second: DuckHuntSprites_24
+  - first:
+      213: -5977793137286741940
+    second: DuckHuntSprites_25
+  - first:
+      213: 3589873970407412402
+    second: DuckHuntSprites_26
+  - first:
+      213: -1746566660878261176
+    second: DuckHuntSprites_27
+  - first:
+      213: 6039472531892095619
+    second: DuckHuntSprites_28
+  - first:
+      213: 4903392854248995007
+    second: DuckHuntSprites_29
+  - first:
+      213: 418923710040732681
+    second: DuckHuntSprites_30
+  - first:
+      213: -3864598263231457875
+    second: DuckHuntSprites_31
+  - first:
+      213: 3352026168581335826
+    second: DuckHuntSprites_32
+  - first:
+      213: 1304238501503636733
+    second: DuckHuntSprites_33
+  - first:
+      213: 7027474148973545037
+    second: DuckHuntSprites_34
+  - first:
+      213: 5074196084679399275
+    second: DuckHuntSprites_35
+  - first:
+      213: -272189095513177864
+    second: DuckHuntSprites_36
+  - first:
+      213: -368289036727692161
+    second: DuckHuntSprites_37
+  - first:
+      213: 8252374477083999067
+    second: DuckHuntSprites_38
+  - first:
+      213: 5592712684571028847
+    second: DuckHuntSprites_39
+  - first:
+      213: 7896147943993890863
+    second: DuckHuntSprites_40
+  - first:
+      213: -8041315711945771387
+    second: DuckHuntSprites_41
+  - first:
+      213: -1663819451430520600
+    second: DuckHuntSprites_42
+  - first:
+      213: -1693020229954822087
+    second: DuckHuntSprites_43
+  - first:
+      213: -8685393168222718959
+    second: DuckHuntSprites_44
+  - first:
+      213: -9201435309422760761
+    second: DuckHuntSprites_45
+  - first:
+      213: -5106577241293919863
+    second: DuckHuntSprites_46
+  - first:
+      213: 6804561780586223780
+    second: DuckHuntSprites_47
+  - first:
+      213: 3078812482436621524
+    second: DuckHuntSprites_48
+  - first:
+      213: 8013398050057143375
+    second: DuckHuntSprites_49
+  - first:
+      213: -3085711107880748045
+    second: DuckHuntSprites_50
+  - first:
+      213: 7370843546076337359
+    second: DuckHuntSprites_51
+  - first:
+      213: -2373067976463802341
+    second: DuckHuntSprites_52
+  - first:
+      213: 2060943692216535605
+    second: DuckHuntSprites_53
+  - first:
+      213: -5866941164227798177
+    second: DuckHuntSprites_54
+  - first:
+      213: 6976868860594217256
+    second: DuckHuntSprites_55
+  - first:
+      213: 1819685904481059869
+    second: DuckHuntSprites_56
+  - first:
+      213: -2379258343768244864
+    second: DuckHuntSprites_57
+  - first:
+      213: -1546334451130055550
+    second: DuckHuntSprites_58
+  - first:
+      213: -3012366687974082737
+    second: DuckHuntSprites_59
+  - first:
+      213: 8965025667703451404
+    second: DuckHuntSprites_60
+  - first:
+      213: 5524158452802213078
+    second: DuckHuntSprites_61
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DuckHuntSprites_0
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 276
+        width: 37
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926adc9d936614648a9ecf4841ba302b
+      internalID: -8819016075256857662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuckHuntSprites_1
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 276
+        width: 37
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb26cdac4633044d9deb7da36796506
+      internalID: 494790646946172801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuckHuntSprites_2
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 49
+        width: 256
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6faec3092f82d44592aa943da981b24
+      internalID: -5121558988732204021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuckHuntSprites_3
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 232
+        width: 53
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d9f84d87ea5fb847a2c1c061a49828f
+      internalID: -1865519119598697148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuckHuntSprites_4
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 232
+        width: 52
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895db22a70f6365419db61baca20253f
+      internalID: -5609233150059175964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuckHuntSprites_5
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 232
+        width: 51
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914a002657383804c981fe0924fee35e
+      internalID: -8539457529444681200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuckHuntSprites_6
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 233
+        width: 51
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43d56aa12e20fe4b886facf6d5800fa
+      internalID: -6667088643750080618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuckHuntSprites_7
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 233
+        width: 51
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd33a1c04371f8c499b06c628376421e
+      internalID: -7017641503573693974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuckHuntSprites_8
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 263
+        width: 56
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de97f58a51c4e341987438eb29c664d
+      internalID: -4384775913810135906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuckHuntSprites_9
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 250
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e7b64b67514e2f4482f613da4cf82ca
+      internalID: 2668522089761795956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuckHuntSprites_10
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 250
+        width: 59
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89334c347c686c74b810c26c7c8952f8
+      internalID: -415753787348115630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuckHuntSprites_11
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 234
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a18d2a7025f0464ab1e35e00ac71bcb
+      internalID: -2776159026035897601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuckHuntSprites_12
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 230
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e444c1327f4d9b94f9e01f823adba772
+      internalID: 2819747589348203635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuckHuntSprites_13
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 176
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a17975ffcc39e4698d7f005ec507f0
+      internalID: 7014523080163748499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuckHuntSprites_14
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 176
+        width: 67
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545f8b0280f884345a437c984f6450b8
+      internalID: 982122315104993935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuckHuntSprites_15
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 176
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d578dad96ed274a9cc2b2bcc785fe4
+      internalID: 1231402321253547743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuckHuntSprites_16
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 176
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9da7447ebcd5e74b8ef8b09b1b991bf
+      internalID: -665633762220790163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuckHuntSprites_17
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 177
+        width: 53
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 328bc249397fbdf469d6716e6e34a077
+      internalID: 3645059321325209384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuckHuntSprites_18
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 176
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb8b32da104ad84eb6e656a3b1f6b02
+      internalID: 7981194585891863640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuckHuntSprites_19
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 178
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf561e4aeafeb9f4684301dde1d5f4b2
+      internalID: -8435605737290126445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuckHuntSprites_20
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 133
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eca364dc321e564cae0df53670b4a7e
+      internalID: -3652683086966088331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuckHuntSprites_21
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 133
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4adf60bb315e14479631183274f35dc
+      internalID: 4210059791072773702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuckHuntSprites_22
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 128
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69428aefe2dd3a44ba54742c21ad68fd
+      internalID: 3945165890852093859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuckHuntSprites_23
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 131
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d88c9befc8d630444b6ef772efb67580
+      internalID: -8790117279746883156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuckHuntSprites_24
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 131
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d9095e93b8b12b4b97a077a01c486a3
+      internalID: 535540593011669600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuckHuntSprites_25
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 130
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecbbf6c27ac10c2469e44b65cd3fc8b6
+      internalID: -5977793137286741940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuckHuntSprites_26
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 127
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb64e657cb1ba334e96ef779e98757c0
+      internalID: 3589873970407412402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuckHuntSprites_27
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 128
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c02b57a8ef82e04eb326b0f76a89bec
+      internalID: -1746566660878261176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuckHuntSprites_28
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 128
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c6484aa4621c14292fbf6821fabdfb
+      internalID: 6039472531892095619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuckHuntSprites_29
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 128
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c126cbeb5ecbe458b4f60f4036f4cd
+      internalID: 4903392854248995007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuckHuntSprites_30
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 127
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a565a5ae4aaee478675546abc2a4c6
+      internalID: 418923710040732681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuckHuntSprites_31
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 91
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f83e817b22d2de4a8c749f794ffff8c
+      internalID: -3864598263231457875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuckHuntSprites_32
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 91
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d6c07910a5b84479dda128ce25098a
+      internalID: 3352026168581335826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuckHuntSprites_33
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 86
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e6a9e908ea3d54fa5069fbaf7a4047
+      internalID: 1304238501503636733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuckHuntSprites_34
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 88
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b0d7e14029ee7418346504f4615162
+      internalID: 7027474148973545037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuckHuntSprites_35
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 88
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0602f5fb4119a754ba8b39e3b9d09fb3
+      internalID: 5074196084679399275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuckHuntSprites_36
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 85
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9356c409e8343b14581587f1b0ce5f45
+      internalID: -272189095513177864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuckHuntSprites_37
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 87
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff9d65d7512bde548b0e60eafb9caeec
+      internalID: -368289036727692161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuckHuntSprites_38
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 88
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0dac558d4c47454e98f3dbd18075161
+      internalID: 8252374477083999067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuckHuntSprites_39
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 88
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9399fed79f6d4b24bb20c3e77e39ce44
+      internalID: 5592712684571028847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuckHuntSprites_40
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 88
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ffa3b95a14fab4a99647c85f2a211f
+      internalID: 7896147943993890863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuckHuntSprites_41
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 88
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a876895558bb584888677c681b74d8e
+      internalID: -8041315711945771387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuckHuntSprites_42
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 48
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf2bc4bb9026c74b941b915e930c3b4
+      internalID: -1663819451430520600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuckHuntSprites_43
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 48
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2e6e8308fd18d4ea1dbc62a350d15b
+      internalID: -1693020229954822087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuckHuntSprites_44
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 43
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee57af9a1e70e34d93bc03fd1b57b19
+      internalID: -8685393168222718959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuckHuntSprites_45
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 47
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99ddd9155761c44c883bd628d0a3ec6
+      internalID: -9201435309422760761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuckHuntSprites_46
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 47
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d59f3d47a2797944ae44196125b044e
+      internalID: -5106577241293919863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuckHuntSprites_47
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 44
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8fd94538867964cbe4338009bbcea5
+      internalID: 6804561780586223780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuckHuntSprites_48
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 43
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b761a26cf6b4d4eb94b8fd813dcd69
+      internalID: 3078812482436621524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuckHuntSprites_49
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 44
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9154a42a01e7eae4297f5fecd83c650e
+      internalID: 8013398050057143375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuckHuntSprites_50
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 44
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d434760537256644eafa3e272e9fce40
+      internalID: -3085711107880748045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuckHuntSprites_51
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 44
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e528c1a4e6dab64ea5cbe41bba2464c
+      internalID: 7370843546076337359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuckHuntSprites_52
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 44
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed6cd831f2521b419e65dfdf02294f8
+      internalID: -2373067976463802341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuckHuntSprites_53
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 25
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b77001652e7aa489e6c9ddfc300fdc
+      internalID: 2060943692216535605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuckHuntSprites_54
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 19
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e09bf6cf7a0564fa2c2dac580a209a
+      internalID: -5866941164227798177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuckHuntSprites_55
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 25
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd45eacf123fd8459100b5d7c6f42d1
+      internalID: 6976868860594217256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuckHuntSprites_56
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 16
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b9e05d57174c24684ae2bea7e83c8f
+      internalID: 1819685904481059869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuckHuntSprites_57
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 26
+        width: 113
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4950f01760f8ca4db6a61d6141291ac
+      internalID: -2379258343768244864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuckHuntSprites_58
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 12
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c13c7995445f334cbb180403dff69ce
+      internalID: -1546334451130055550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuckHuntSprites_59
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 12
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60ab07b69080734098fbb49c1cfe942
+      internalID: -3012366687974082737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuckHuntSprites_60
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 6
+        width: 113
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0508176cd3931304c9a78b29c50cd981
+      internalID: 8965025667703451404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuckHuntSprites_61
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 12
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e5a04ff0b221d94c93879701056100a
+      internalID: 5524158452802213078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
