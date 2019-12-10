@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class MoveDuck : MonoBehaviour
 {
+    public GameObject[] SpawnList;
     Vector3 direction;
     Rigidbody2D rb;
     private Animator animator;
@@ -20,21 +21,25 @@ public class MoveDuck : MonoBehaviour
             case 0:
                 {
                     direction = new Vector3(1f, 0f, 0f);
+                    GetComponent<SpawnDuck>().Spawn(SpawnList[UnityEngine.Random.Range(0,2)]);
                     break;
                 }
             case 1:
                 {
                     direction = new Vector3(-1f, 0f, 0f);
+                    GetComponent<SpawnDuck>().Spawn(SpawnList[UnityEngine.Random.Range(2, 4)]);
                     break;
                 }
             case 2:
                 {
                     direction = new Vector3(1f, 1f, 0f);
+                    GetComponent<SpawnDuck>().Spawn(SpawnList[4]);
                     break;
                 }
             case 3:
                 {
                     direction = new Vector3(-1f, 1f, 0f);
+                    GetComponent<SpawnDuck>().Spawn(SpawnList[5]);
                     break;
                 }
         }
@@ -61,6 +66,7 @@ public class MoveDuck : MonoBehaviour
         if (collision.gameObject.CompareTag("Background"))
         {
             Destroy(this.gameObject);
+            Score.CurrentScore++;
         }
     }
 }
