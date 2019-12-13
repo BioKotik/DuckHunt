@@ -131,7 +131,11 @@ GameObject:
   - component: {fileID: 116917902}
   m_Layer: 0
   m_Name: Spawnpoint(1)
+<<<<<<< HEAD
   m_TagString: 1
+=======
+  m_TagString: Untagged
+>>>>>>> d89a6daf015553c35820015d42e5bed39f314ad0
   m_Icon: {fileID: -5938655980376293919, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -161,7 +165,11 @@ GameObject:
   - component: {fileID: 270817999}
   m_Layer: 0
   m_Name: Spawnpoint(5)
+<<<<<<< HEAD
   m_TagString: 3
+=======
+  m_TagString: Untagged
+>>>>>>> d89a6daf015553c35820015d42e5bed39f314ad0
   m_Icon: {fileID: 3306451490063965843, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -191,7 +199,11 @@ GameObject:
   - component: {fileID: 358455195}
   m_Layer: 0
   m_Name: Spawnpoint(4)
+<<<<<<< HEAD
   m_TagString: 2
+=======
+  m_TagString: Untagged
+>>>>>>> d89a6daf015553c35820015d42e5bed39f314ad0
   m_Icon: {fileID: 3443629218296621865, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -228,6 +240,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 31b7d067bf45d49489bebf5227b2d070, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
+=======
+  BulletCount: 0
+>>>>>>> d89a6daf015553c35820015d42e5bed39f314ad0
   SpawnList:
   - {fileID: 116917901}
   - {fileID: 851703183}
@@ -236,7 +252,10 @@ MonoBehaviour:
   - {fileID: 270817998}
   - {fileID: 1521968507}
   speed: 1
+<<<<<<< HEAD
   bullets: {fileID: 460059032}
+=======
+>>>>>>> d89a6daf015553c35820015d42e5bed39f314ad0
 --- !u!50 &382852476
 Rigidbody2D:
   serializedVersion: 4
@@ -284,7 +303,11 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.15431553, y: 0.13571396}
   m_EdgeRadius: 0
+<<<<<<< HEAD
 --- !u!114 &382852479
+=======
+--- !u!114 &382852478
+>>>>>>> d89a6daf015553c35820015d42e5bed39f314ad0
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -293,6 +316,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 382852471}
   m_Enabled: 1
   m_EditorHideFlags: 0
+<<<<<<< HEAD
   m_Script: {fileID: 11500000, guid: be9b27c2881b83347bf8ce47108c2180, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
@@ -345,17 +369,28 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   bulletCount: 3
+=======
+  m_Script: {fileID: 11500000, guid: 83b3364db4309ab4785cc1b6c984a8aa, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+>>>>>>> d89a6daf015553c35820015d42e5bed39f314ad0
   SpriteList:
   - {fileID: 874343242196921964, guid: 1ad9884f50ef8f94db801b374ccac66a, type: 3}
   - {fileID: -7976837497307082302, guid: 1ad9884f50ef8f94db801b374ccac66a, type: 3}
   - {fileID: -7803065417098437583, guid: 1ad9884f50ef8f94db801b374ccac66a, type: 3}
   - {fileID: 7431529995326980795, guid: 1ad9884f50ef8f94db801b374ccac66a, type: 3}
+<<<<<<< HEAD
 --- !u!212 &460059035
 SpriteRenderer:
+=======
+--- !u!114 &382852479
+MonoBehaviour:
+>>>>>>> d89a6daf015553c35820015d42e5bed39f314ad0
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 460059032}
   m_Enabled: 1
   m_CastShadows: 0
@@ -399,6 +434,18 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+=======
+  m_GameObject: {fileID: 382852471}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be9b27c2881b83347bf8ce47108c2180, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  DuckList:
+  - {fileID: 741214586}
+  - {fileID: 382852471}
+  - {fileID: 983690759}
+>>>>>>> d89a6daf015553c35820015d42e5bed39f314ad0
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
@@ -563,6 +610,7 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+<<<<<<< HEAD
 --- !u!61 &614125407
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -589,6 +637,8 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 2.56, y: 2.4}
   m_EdgeRadius: 0
+=======
+>>>>>>> d89a6daf015553c35820015d42e5bed39f314ad0
 --- !u!1 &741214586 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 917462714141764738, guid: c05b37192a5cd804b98cc4cff01c1a76,
@@ -607,6 +657,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 31b7d067bf45d49489bebf5227b2d070, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
+=======
+  BulletCount: 0
+>>>>>>> d89a6daf015553c35820015d42e5bed39f314ad0
   SpawnList:
   - {fileID: 116917901}
   - {fileID: 851703183}
@@ -615,7 +669,10 @@ MonoBehaviour:
   - {fileID: 270817998}
   - {fileID: 1521968507}
   speed: 1
+<<<<<<< HEAD
   bullets: {fileID: 460059032}
+=======
+>>>>>>> d89a6daf015553c35820015d42e5bed39f314ad0
 --- !u!50 &741214591
 Rigidbody2D:
   serializedVersion: 4
@@ -663,6 +720,26 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.15861626, y: 0.13571408}
   m_EdgeRadius: 0
+<<<<<<< HEAD
+=======
+--- !u!114 &741214593
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 741214586}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83b3364db4309ab4785cc1b6c984a8aa, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SpriteList:
+  - {fileID: 874343242196921964, guid: 1ad9884f50ef8f94db801b374ccac66a, type: 3}
+  - {fileID: -7976837497307082302, guid: 1ad9884f50ef8f94db801b374ccac66a, type: 3}
+  - {fileID: -7803065417098437583, guid: 1ad9884f50ef8f94db801b374ccac66a, type: 3}
+  - {fileID: 7431529995326980795, guid: 1ad9884f50ef8f94db801b374ccac66a, type: 3}
+>>>>>>> d89a6daf015553c35820015d42e5bed39f314ad0
 --- !u!114 &741214594
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -690,7 +767,11 @@ GameObject:
   - component: {fileID: 851703184}
   m_Layer: 0
   m_Name: Spawnpoint(2)
+<<<<<<< HEAD
   m_TagString: 1
+=======
+  m_TagString: Untagged
+>>>>>>> d89a6daf015553c35820015d42e5bed39f314ad0
   m_Icon: {fileID: -5442936267250999957, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -727,6 +808,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 31b7d067bf45d49489bebf5227b2d070, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
+=======
+  BulletCount: 0
+>>>>>>> d89a6daf015553c35820015d42e5bed39f314ad0
   SpawnList:
   - {fileID: 116917901}
   - {fileID: 851703183}
@@ -735,7 +820,10 @@ MonoBehaviour:
   - {fileID: 270817998}
   - {fileID: 1521968507}
   speed: 1
+<<<<<<< HEAD
   bullets: {fileID: 460059032}
+=======
+>>>>>>> d89a6daf015553c35820015d42e5bed39f314ad0
 --- !u!50 &983690764
 Rigidbody2D:
   serializedVersion: 4
@@ -783,6 +871,26 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.15431553, y: 0.13356373}
   m_EdgeRadius: 0
+<<<<<<< HEAD
+=======
+--- !u!114 &983690766
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 983690759}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83b3364db4309ab4785cc1b6c984a8aa, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SpriteList:
+  - {fileID: 874343242196921964, guid: 1ad9884f50ef8f94db801b374ccac66a, type: 3}
+  - {fileID: -7976837497307082302, guid: 1ad9884f50ef8f94db801b374ccac66a, type: 3}
+  - {fileID: -7803065417098437583, guid: 1ad9884f50ef8f94db801b374ccac66a, type: 3}
+  - {fileID: 7431529995326980795, guid: 1ad9884f50ef8f94db801b374ccac66a, type: 3}
+>>>>>>> d89a6daf015553c35820015d42e5bed39f314ad0
 --- !u!114 &983690767
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -810,7 +918,11 @@ GameObject:
   - component: {fileID: 986497985}
   m_Layer: 0
   m_Name: Spawnpoint(3)
+<<<<<<< HEAD
   m_TagString: 2
+=======
+  m_TagString: Untagged
+>>>>>>> d89a6daf015553c35820015d42e5bed39f314ad0
   m_Icon: {fileID: 7148428337604731935, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -980,7 +1092,11 @@ GameObject:
   - component: {fileID: 1521968508}
   m_Layer: 0
   m_Name: Spawnpoint(6)
+<<<<<<< HEAD
   m_TagString: 4
+=======
+  m_TagString: Untagged
+>>>>>>> d89a6daf015553c35820015d42e5bed39f314ad0
   m_Icon: {fileID: 7422848464349959988, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1116,18 +1232,16 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 6755700954677250211, guid: f9382cbad85a5a54eb4b607ddb467d61,
+    - target: {fileID: 6066681608379187186, guid: f9382cbad85a5a54eb4b607ddb467d61,
         type: 3}
-      propertyPath: m_Name
-      value: Duck_Blue
-      objectReference: {fileID: 0}
-    - target: {fileID: 6755700954677250211, guid: f9382cbad85a5a54eb4b607ddb467d61,
-        type: 3}
+<<<<<<< HEAD
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6066681608379187186, guid: f9382cbad85a5a54eb4b607ddb467d61,
         type: 3}
+=======
+>>>>>>> d89a6daf015553c35820015d42e5bed39f314ad0
       propertyPath: m_SortingOrder
       value: 2
       objectReference: {fileID: 0}
@@ -1186,6 +1300,19 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+<<<<<<< HEAD
+=======
+    - target: {fileID: 6755700954677250211, guid: f9382cbad85a5a54eb4b607ddb467d61,
+        type: 3}
+      propertyPath: m_Name
+      value: Duck_Blue
+      objectReference: {fileID: 0}
+    - target: {fileID: 6755700954677250211, guid: f9382cbad85a5a54eb4b607ddb467d61,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+>>>>>>> d89a6daf015553c35820015d42e5bed39f314ad0
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f9382cbad85a5a54eb4b607ddb467d61, type: 3}
 --- !u!1 &1871372572
@@ -1417,6 +1544,7 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+<<<<<<< HEAD
     - target: {fileID: 917462714141764738, guid: c05b37192a5cd804b98cc4cff01c1a76,
         type: 3}
       propertyPath: m_Name
@@ -1427,6 +1555,8 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+=======
+>>>>>>> d89a6daf015553c35820015d42e5bed39f314ad0
     - target: {fileID: 917462714141764736, guid: c05b37192a5cd804b98cc4cff01c1a76,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1481,6 +1611,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 917462714141764738, guid: c05b37192a5cd804b98cc4cff01c1a76,
+        type: 3}
+      propertyPath: m_Name
+      value: Duck_Brown
+      objectReference: {fileID: 0}
+    - target: {fileID: 917462714141764738, guid: c05b37192a5cd804b98cc4cff01c1a76,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 917462714141764739, guid: c05b37192a5cd804b98cc4cff01c1a76,
         type: 3}

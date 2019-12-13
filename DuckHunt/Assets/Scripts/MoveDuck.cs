@@ -4,21 +4,33 @@ using UnityEngine;
 
 public class MoveDuck : MonoBehaviour
 {
+<<<<<<< HEAD
+=======
+    public int BulletCount;
+>>>>>>> d89a6daf015553c35820015d42e5bed39f314ad0
     public GameObject[] SpawnList;
     Vector3 direction;
     Rigidbody2D rb;
     private Animator animator;
     public float speed = 1;
+<<<<<<< HEAD
     internal GameObject currentSpawn;
     public GameObject bullets;
+=======
+    public GameObject currentSpawn;
+>>>>>>> d89a6daf015553c35820015d42e5bed39f314ad0
     // Start is called before the first frame update
     void Start()
     {
         animator = GetComponent<Animator>();
         rb = GetComponent<Rigidbody2D>();
         direction = Vector3.zero;
+<<<<<<< HEAD
         if (currentSpawn != null)
         switch (currentSpawn.tag)
+=======
+        switch (currentSpawn.transform.position.x)
+>>>>>>> d89a6daf015553c35820015d42e5bed39f314ad0
         {
             case "1":
                 {
@@ -80,6 +92,7 @@ public class MoveDuck : MonoBehaviour
 
     private void OnTriggerStay2D(Collider2D collision)
     {
+<<<<<<< HEAD
          if (Input.GetMouseButtonDown(0) && collision.gameObject.CompareTag("Scope"))
          {
               if (bullets.gameObject.GetComponent<Bullets>().bulletCount > 0)
@@ -87,6 +100,13 @@ public class MoveDuck : MonoBehaviour
                   direction = new Vector3(0f, -1f, 0f);
               }
          }
+=======
+        if (Input.GetMouseButtonDown(0) && collision.gameObject.CompareTag("Scope"))
+        {
+            direction = new Vector3(0f, -1f, 0f);
+            BulletCount--;
+        }
+>>>>>>> d89a6daf015553c35820015d42e5bed39f314ad0
     }
 
 
@@ -118,6 +138,10 @@ public class MoveDuck : MonoBehaviour
                         break;
                     }
             }
+<<<<<<< HEAD
+=======
+            Destroy(this.gameObject);
+>>>>>>> d89a6daf015553c35820015d42e5bed39f314ad0
             Score.CurrentScore++;
         }
     }

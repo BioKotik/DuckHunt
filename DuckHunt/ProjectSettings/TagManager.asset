@@ -6,12 +6,15 @@ TagManager:
   tags:
   - Scope
   - Background
+<<<<<<< HEAD
   - 1
   - 2
   - 3
   - 4
   - 5
   - 6
+=======
+>>>>>>> d89a6daf015553c35820015d42e5bed39f314ad0
   layers:
   - Default
   - TransparentFX
