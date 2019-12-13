@@ -20,11 +20,4 @@ public class CursorMove : MonoBehaviour
         transform.position = objPosition;
     }
 
-    private void OnTriggerEnter2D(Collider2D collision)
-    {
-        if (Input.GetMouseButtonDown(0))
-        {
-
-        }
-    }
 }

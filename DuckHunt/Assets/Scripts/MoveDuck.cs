@@ -4,39 +4,69 @@ using UnityEngine;
 
 public class MoveDuck : MonoBehaviour
 {
+    public GameObject[] SpawnList;
     Vector3 direction;
     Rigidbody2D rb;
     private Animator animator;
     public float speed = 1;
+    internal GameObject currentSpawn;
+    public GameObject bullets;
     // Start is called before the first frame update
     void Start()
     {
         animator = GetComponent<Animator>();
         rb = GetComponent<Rigidbody2D>();
-        int rand = UnityEngine.Random.Range(0,4);
         direction = Vector3.zero;
-        switch (rand)
+        if (currentSpawn != null)
+        switch (currentSpawn.tag)
         {
-            case 0:
+            case "1":
                 {
                     direction = new Vector3(1f, 0f, 0f);
                     break;
                 }
-            case 1:
+            case "2":
                 {
                     direction = new Vector3(-1f, 0f, 0f);
                     break;
                 }
-            case 2:
+            case "3":
                 {
                     direction = new Vector3(1f, 1f, 0f);
                     break;
                 }
-            case 3:
+            case "4":
                 {
                     direction = new Vector3(-1f, 1f, 0f);
                     break;
                 }
+        }
+        else
+        {
+            int rnd = Random.Range(1,5);
+            switch (rnd)
+            {
+                case 1:
+                    {
+                        direction = new Vector3(1f, 0f, 0f);
+                        break;
+                    }
+                case 2:
+                    {
+                        direction = new Vector3(-1f, 0f, 0f);
+                        break;
+                    }
+                case 3:
+                    {
+                        direction = new Vector3(1f, 1f, 0f);
+                        break;
+                    }
+                case 4:
+                    {
+                        direction = new Vector3(-1f, 1f, 0f);
+                        break;
+                    }
+            }
         }
     }
 
@@ -50,17 +80,45 @@ public class MoveDuck : MonoBehaviour
 
     private void OnTriggerStay2D(Collider2D collision)
     {
-        if (Input.GetMouseButtonDown(0) && collision.gameObject.CompareTag("Scope"))
-        {
-            direction = new Vector3(0f, -1f, 0f);
-        }
+         if (Input.GetMouseButtonDown(0) && collision.gameObject.CompareTag("Scope"))
+         {
+              if (bullets.gameObject.GetComponent<Bullets>().bulletCount > 0)
+              {
+                  direction = new Vector3(0f, -1f, 0f);
+              }
+         }
     }
+
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.gameObject.CompareTag("Background"))
         {
-            Destroy(this.gameObject);
+            int rand = UnityEngine.Random.Range(0, 4);
+            switch (rand)
+            {
+                case 0:
+                    {
+                        GetComponent<SpawnDuck>().Spawn(SpawnList[UnityEngine.Random.Range(0, 2)]);
+                        break;
+                    }
+                case 1:
+                    {
+                        GetComponent<SpawnDuck>().Spawn(SpawnList[UnityEngine.Random.Range(2, 4)]);
+                        break;
+                    }
+                case 2:
+                    {
+                        GetComponent<SpawnDuck>().Spawn(SpawnList[4]);
+                        break;
+                    }
+                case 3:
+                    {
+                        GetComponent<SpawnDuck>().Spawn(SpawnList[5]);
+                        break;
+                    }
+            }
+            Score.CurrentScore++;
         }
     }
 }
